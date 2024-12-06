@@ -1,11 +1,12 @@
 package org.example;
 
-import org.example.aoc2024.day2.Day2;
+import org.example.aoc2024.day3.Day3;
 
 public class Main {
     public static void main(String[] args) {
-        Day2 d2 = new Day2();
+        Day3 d3 = new Day3();
 
-        d2.Part2();
+        d3.Part1();
+        d3.Part2();
     }
 }
